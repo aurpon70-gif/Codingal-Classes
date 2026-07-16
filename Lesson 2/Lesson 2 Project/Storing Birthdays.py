@@ -7,7 +7,7 @@ birthdays = {
     "Edward_Birthday": "Edward's birthday is on February 8th"
 }
 
-# Printing the Friend's birthdays
+# Printing the birthdays
 print(birthdays["Alice_Birthday"])
 print(birthdays["Bob_Birthday"])
 print(birthdays["Charlie_Birthday"])
