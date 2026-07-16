@@ -1,4 +1,4 @@
-# Create a dictionary to store birthdays
+# Storing the Friend's Birthdays
 birthdays = {
     "Alice_Birthday": "Alice's birthday is on May 14th",
     "Bob_Birthday": "Bob's birthday is on July 22nd",
@@ -7,7 +7,7 @@ birthdays = {
     "Edward_Birthday": "Edward's birthday is on February 8th"
 }
 
-# Print Alice's birthday
+# Printing the Friend's birthdays
 print(birthdays["Alice_Birthday"])
 print(birthdays["Bob_Birthday"])
 print(birthdays["Charlie_Birthday"])
