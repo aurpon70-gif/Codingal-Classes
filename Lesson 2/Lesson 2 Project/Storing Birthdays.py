@@ -1,10 +1,10 @@
 # Create a dictionary to store birthdays
 birthdays = {
-    "Alice_Birthday": "Alice's birthday is May 14th",
-    "Bob_Birthday": "Bob's birthday is July 22th",
-    "Charlie_Birthday": "Charlie's birthday is October 5th",
-    "David_Birthday": "David's birthday is August 15th",
-    "Edward_Birthday": "Edward's birthday is February 8th"
+    "Alice_Birthday": "Alice's birthday is on May 14th",
+    "Bob_Birthday": "Bob's birthday is on July 22nd",
+    "Charlie_Birthday": "Charlie's birthday is on October 5th",
+    "David_Birthday": "David's birthday is on August 15th",
+    "Edward_Birthday": "Edward's birthday is on February 8th"
 }
 
 # Print Alice's birthday
