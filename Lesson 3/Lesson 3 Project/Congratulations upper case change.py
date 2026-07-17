@@ -1,2 +1,5 @@
-user_word = input("Enter your word: ")
-print(user_word.upper())
+# Choosing the word to convert
+word = "congratulations"
+# Converting the word to uppercase
+uppercase_word = word.upper()
+print(uppercase_word)
