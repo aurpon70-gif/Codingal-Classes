@@ -1,0 +1,8 @@
+# Get temperature input from the user
+temperature = float(input("Enter the current temperature in fahrenheit: "))
+
+# Check if the temperature is suitable for light and soft clothes
+if temperature >= 68:
+    print("It's warm outside! You can wear light and soft clothes today.")
+else:
+    print("It's too cold for light clothes! Keep your jacket or pullover on to avoid catching a cold.")
