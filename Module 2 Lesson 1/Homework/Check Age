@@ -1,0 +1,12 @@
+# Take age input from the user
+age = int(input("Enter student's age: "))
+
+# Check if age is at least 10
+if age >= 10:
+    # Nested check to see if age is 20 or under
+    if age <= 20:
+        print("Enrollment successful! The student is allowed in the class.")
+    else:
+        print("Enrollment failed. Student is older than 20 years.")
+else:
+    print("Enrollment failed. Student is younger than 10 years.")
